@@ -4,7 +4,7 @@ An AI-powered document question-answering application built using LangChain, Lan
 
 ## 🌐 Live Demo
 
-🚀 [Click Here to Try the Application](PASTE_Yhttps://enterprise-agentic-rag-zkwy97pvhncrm4fdjzdxtv.streamlit.app/OUR_STREAMLIT_URL_HERE)
+🚀 [Click Here to Try the Application](https://enterprise-agentic-rag-zkwy97pvhncrm4fdjzdxtv.streamlit.app/)
 
 ## ✨ Features
 
